@@ -2,9 +2,11 @@ Rencana Baru
 - Javascript
  *ES6
  *Framework JAVASCRPT
-  ~Angular
-  ~React
+  ~Vue js
+  ~React Native
+- Fundamental data dasar
 - PHP Framework
-  ~Larvel
+  ~Laravel
 - INterview
 - Vlogs
+- Phyton
