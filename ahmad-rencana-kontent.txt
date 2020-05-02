@@ -2,7 +2,9 @@ Rencana Baru
 - Javascript
  *ES6
  *Framework JAVASCRPT
-- Fundamental data dasar
+  ~Angular
+  ~React
 - PHP Framework
+  ~Larvel
 - INterview
 - Vlogs
