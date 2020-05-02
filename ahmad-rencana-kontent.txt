@@ -1,5 +1,7 @@
 Rencana Baru
 - Javascript
+ *ES6
+ *Framework JAVASCRPT
 - PHP Framework
 - INterview
 - Vlogs
