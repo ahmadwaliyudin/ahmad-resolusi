@@ -3,6 +3,7 @@ Rencana Baru
  *ES6
  *Framework JAVASCRPT
   ~Vue js
+  ~React Native
 - Fundamental data dasar
 - PHP Framework
   ~Laravel
